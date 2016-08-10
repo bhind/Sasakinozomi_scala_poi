@@ -8,5 +8,5 @@ Apache POI 3.14
 Microsoft Excel 2013
 
 # description
-これのScala port版
+これのScala port版です
 http://qiita.com/Algebra_nobu/items/4e2b36bdb38434e183de
